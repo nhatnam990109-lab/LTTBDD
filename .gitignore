@@ -1,0 +1,4 @@
+.DS_Store
+clinic-app/.dart_tool/
+clinic-app/build/
+clinic-api/.dart_tool/

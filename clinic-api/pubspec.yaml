@@ -1,0 +1,17 @@
+name: clinic_api
+description: API Dart cho website ClinicCare, lưu dữ liệu trên MySQL.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  crypto: ^3.0.6
+  mysql_client: ^0.0.27
+  shelf: ^1.4.2
+  shelf_cors_headers: ^0.1.5
+  shelf_router: ^1.1.4
+
+dev_dependencies:
+  test: ^1.25.8
